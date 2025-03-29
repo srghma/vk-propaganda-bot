@@ -1,2 +1,8 @@
 .puppeteer_userdata/
 node_modules/
+.env
+
+*.jsonl.lock/
+*.jsonl.dump
+*.jsonl
+package-lock.json
